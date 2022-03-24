@@ -8,7 +8,5 @@ public class PointEq {
     public static void main(String[] args) {
         System.out.println(eq(1, 1, 2, 2));
         System.out.println(eq(10, 10, 10, 10));
-        System.out.println(eq(10, 12, 10, 10));
-        System.out.println(eq(-3, 8, -3, 8));
     }
 }
