@@ -27,4 +27,7 @@ public class LogicNot {
         //или return isEven(num) || !isPositive(int num);
     }
 
+    public static void main(String[] args) {
+    }
+
 }
